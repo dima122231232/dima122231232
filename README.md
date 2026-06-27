@@ -13,7 +13,7 @@ If you doubt me because of my age (**23**), over the past **3 years** in the ind
 
 ---
 
-> ⭐ I have never received a rating lower than **5 stars**, which I strive to maintain, only taking on work in the quality of which I am confident.
+> I have never received a rating lower than **5 stars**, which I strive to maintain, only taking on work in the quality of which I am confident.
 
 ---
 
@@ -30,7 +30,7 @@ WordPress · Django · GitHub · Git
 
 ---
 
-> ⭐ My strength is that I can handle complex solutions, but it’s important to remember that easy and medium tasks are even easier for me to complete, which is what I’m also open to.
+> My strength is that I can handle complex solutions, but it’s important to remember that easy and medium tasks are even easier for me to complete, which is what I’m also open to.
 
 ---
 
