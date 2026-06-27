@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Dmytro
+> 📩 Contact: dimokmilok46@gmail.com
 
 ### Frontend Developer & Designer
 
