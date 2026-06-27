@@ -44,41 +44,16 @@ If you doubt me because of my age (**23**), over the past **3 years** in the ind
 
 ---
 
-# 📢 My strength
-
-> My strength is that I can handle complex solutions, but it’s important to remember that easy and medium tasks are even easier for me to complete, which is what I’m also open to.
-
----
-
-# ◎ My stack
+## ◎ My stack
 
 ### ◆ Front-End
-
-- HTML5
-- CSS3
-- SCSS
-- JavaScript (ES6+)
-- React.js
-- Next.js
-- GSAP (FULL)
-- Lenis
-- Three.js
-- Node.js
-- Vite
-- Vercel
+HTML5 · CSS3 · SCSS · JavaScript (ES6+) · React.js · Next.js · GSAP (full) · Lenis · Three.js · Node.js · Vite · Vercel
 
 ### ◆ Design
-
-- Figma
-- AI tools
-- Premiere Pro
+Figma · AI tools · Premiere Pro
 
 ### ◆ Back-End
-
-- WordPress
-- Django
-- GitHub
-- Git
+WordPress · Django · GitHub · Git
 
 ---
 
