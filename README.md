@@ -60,7 +60,8 @@ If you doubt me because of my age (**23**), over the past **3 years** in the ind
 - JavaScript (ES6+)
 - React.js
 - Next.js
-- GSAP
+- GSAP (FULL)
+- Lenis
 - Three.js
 - Node.js
 - Vite
