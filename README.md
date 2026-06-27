@@ -30,6 +30,12 @@ WordPress · Django · GitHub · Git
 
 ---
 
+# 📢 My strength
+
+> My strength is that I can handle complex solutions, but it’s important to remember that easy and medium tasks are even easier for me to complete, which is what I’m also open to.
+
+---
+
 # ⌁ Final note
 
 If you need not a template solution but a specific approach, I am always available.
