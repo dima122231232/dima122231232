@@ -17,36 +17,6 @@ If you doubt me because of my age (**23**), over the past **3 years** in the ind
 
 ---
 
-# ⌁ Working with me, you will get
-
-- ◆ code that will stay relevant for years
-- ◆ a product that looks and feels premium or in any style you need
-- ◆ an interface that sells and retains users
-- ◆ performance and SEO (priority)
-- ◆ adaptation to any project
-- ◆ attention to detail
-- ◆ competitor analysis
-- ◆ a website of any required complexity
-
----
-
-# ◆ Ideal client for me
-
-- ✔ Landing pages
-- ✔ Corporate websites (business sites)
-- ✔ Personal or brand portfolios
-- ✔ Startups
-- ✔ Promo pages and marketing campaigns
-- ✔ Product websites / presentation pages (Product pages)
-- ✔ Businesses that care about SEO and conversion
-- ✔ Businesses that want to stand out
-- ✔ Companies that need to convey mood or emotion through a website
-- ✔ Projects focused on animations and interactivity
-- ✔ Clients who value quality and attention to detail (no AI clutter)
-- ✔ Long-term projects or collaborations
-
----
-
 ## ◎ My stack
 
 ### ◆ Front-End
