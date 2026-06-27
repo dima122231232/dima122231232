@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Dmytro
 > 📩 Contact: dimokmilok46@gmail.com
 > 
-> UpWork: https://www.upwork.com/freelancers/programisticcd?mp_source=share
+> 📩 UpWork: https://www.upwork.com/freelancers/programisticcd?mp_source=share
 
 ### Frontend Developer & Designer
 
